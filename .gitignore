@@ -1,0 +1,4 @@
+.env
+my_project_environment/
+__pycache__/
+*.pyc
